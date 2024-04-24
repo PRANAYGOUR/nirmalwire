@@ -42799,7 +42799,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-2 {
-  min-height: 108px;
+  min-height: 109px;
 }
 
 .u-header .u-menu-1 {
@@ -42816,9 +42816,9 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-image-1 {
-  width: 127px;
+  width: 140px;
   height: 107px;
-  margin: -72px auto 2px 37px;
+  margin: -71px auto 2px 37px;
 }
 @media (max-width: 1199px) {
   .u-header .u-text-1 {
@@ -42836,27 +42836,20 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 1199px) {
-  .u-header .u-sheet-2 {
-    min-height: 200px;
-  }
-
   .u-header .u-menu-1 {
     width: auto;
-    margin-top: 71px;
+    margin-top: 36px;
     margin-right: 64px;
   }
 
   .u-header .u-image-1 {
-    margin-top: -71px;
-    margin-bottom: 58px;
+    width: 138px;
+    margin-top: -72px;
+    margin-bottom: 1px;
     margin-left: 0;
   }
 }
 @media (max-width: 991px) {
-  .u-header .u-sheet-1 {
-    min-height: 117px;
-  }
-
   .u-header .u-text-3 {
     width: auto;
     margin-top: -48px;
@@ -42866,21 +42859,18 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 991px) {
   .u-header .u-menu-1 {
-    margin-top: 38px;
+    margin-top: 37px;
     margin-right: 191px;
   }
 
   .u-header .u-image-1 {
+    width: 138px;
     margin-top: -70px;
-    margin-bottom: 1px;
+    margin-bottom: -1px;
     margin-left: 35px;
   }
 }
 @media (max-width: 767px) {
-  .u-header .u-sheet-1 {
-    min-height: 120px;
-  }
-
   .u-header .u-text-1 {
     width: auto;
     margin-top: 8px;
@@ -42900,19 +42890,16 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 767px) {
   .u-header .u-menu-1 {
+    margin-top: 37px;
     margin-right: 143px;
   }
 
   .u-header .u-image-1 {
-    margin-top: -71px;
-    margin-bottom: 58px;
+    margin-top: -70px;
+    margin-bottom: -1px;
   }
 }
 @media (max-width: 575px) {
-  .u-header .u-sheet-1 {
-    min-height: 177px;
-  }
-
   .u-header .u-text-1 {
     margin-top: 0;
     margin-left: auto;
@@ -42931,12 +42918,14 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-menu-1 {
+    margin-top: 38px;
     margin-right: 90px;
   }
 
   .u-header .u-image-1 {
-    margin-top: 20px;
+    margin-top: -70px;
     margin-bottom: 2px;
+    margin-left: 0;
   }
 }
  .u-footer {
